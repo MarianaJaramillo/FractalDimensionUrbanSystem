@@ -12,7 +12,6 @@ Este repositorio contiene un conjunto de scripts en Python para calcular la dime
 
 Puedes instalarlas con:
 
-```bash
 pip install -r requirements.txt
 
 ## Uso
